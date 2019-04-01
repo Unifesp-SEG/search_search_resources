@@ -1,0 +1,51 @@
+Ambiente de execução:
+1) XUbuntu 14.04
+2) Oracle Java 7 (http://www.webupd8.org/2012/01/install-oracle-java-jdk-7-in-ubuntu-via.html)
+3) Eclipse Mars com plugin PDE (plugin do eclipse Luna)
+
+Fazer o clone do projeto:
+$ git clone https://github.com/Mondego/Sourcerer.git
+
+Fazer o checkout do commit correto:
+$ git checkout 84ebc546f055de9b8bf9e58d9a98df47e544b365
+
+Repositório de teste:
+Faz download disto: http://sourcerer.ics.uci.edu/downloads/test-repo.zip
+
+
+Tutorial:
+
+Step 4 - Calculate Repository Statistics
+Modificar:
+    - Linha 10: tutorial.properties => tutorial-repo.properties
+    - Linha 11: repository-manager => java-repository-manager
+
+Step 6 - Add Java Libraries to Repo
+Modificar:
+    - Linha 16: <stringAttribute key="location" value="${workspace_loc:test-repo/output}/ws"/> =>
+                <stringAttribute key="location" value="${workspace_loc:bin/launch/tutorial}/ws"/>
+
+Step 6 - Extract Jars
+Modificar: 
+    - Linha 17: --extract-jars => --extract-project-jars
+
+
+
+Step 4 - Calculate Repository Statistics
+Step 4 - Aggregate Jar Files
+Step 5 - Test Extractor
+Step 6 - Add Java Libraries to Repo
+Step 6 - Extract Libraries
+Step 6 - Extract Jars
+Step 6 - Extract Projects
+Step 9 - Initialize DB
+Step 9 - Import Libraries
+Step 9 - Import Jars
+Step 9 - Import Projects
+
+
+
+
+
+
+
