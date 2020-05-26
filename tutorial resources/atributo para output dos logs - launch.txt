@@ -1,0 +1,21 @@
+<stringAttribute key="org.eclipse.debug.ui.ATTR_CAPTURE_IN_FILE" value="F:\sourcerer_portable\repositories\genie_search_api_test\console-logs\${current_date}. Step 1 - Calculate Repository Statistics.log"/>
+
+<stringAttribute key="org.eclipse.debug.ui.ATTR_CAPTURE_IN_FILE" value="F:\sourcerer_portable\repositories\genie_search_api_test\console-logs\${current_date}. Step 2 - Test Extractor.log"/>
+
+<stringAttribute key="org.eclipse.debug.ui.ATTR_CAPTURE_IN_FILE" value="F:\sourcerer_portable\repositories\genie_search_api_test\console-logs\${current_date}. Step 3 - Aggregate Jar Files.log"/>
+
+<stringAttribute key="org.eclipse.debug.ui.ATTR_CAPTURE_IN_FILE" value="F:\sourcerer_portable\repositories\genie_search_api_test\console-logs\${current_date}. Step 4.1 - Add Java Libraries to Repo.log"/>
+
+<stringAttribute key="org.eclipse.debug.ui.ATTR_CAPTURE_IN_FILE" value="F:\sourcerer_portable\repositories\genie_search_api_test\console-logs\${current_date}. Step 4.2 - Extract Libraries.log"/>
+
+<stringAttribute key="org.eclipse.debug.ui.ATTR_CAPTURE_IN_FILE" value="F:\sourcerer_portable\repositories\genie_search_api_test\console-logs\${current_date}. Step 4.3 - Extract Jars.log"/>
+
+<stringAttribute key="org.eclipse.debug.ui.ATTR_CAPTURE_IN_FILE" value="F:\sourcerer_portable\repositories\genie_search_api_test\console-logs\${current_date}. Step 4.4 - Extract Projects.log"/>
+
+<stringAttribute key="org.eclipse.debug.ui.ATTR_CAPTURE_IN_FILE" value="F:\sourcerer_portable\repositories\genie_search_api_test\console-logs\${current_date}. Step 5.1 - Initialize DB.log"/>
+
+<stringAttribute key="org.eclipse.debug.ui.ATTR_CAPTURE_IN_FILE" value="F:\sourcerer_portable\repositories\genie_search_api_test\console-logs\${current_date}. Step 5.2 - Import Libraries.log"/>
+
+<stringAttribute key="org.eclipse.debug.ui.ATTR_CAPTURE_IN_FILE" value="F:\sourcerer_portable\repositories\genie_search_api_test\console-logs\${current_date}. Step 5.3 - Import Jars.log"/>
+
+<stringAttribute key="org.eclipse.debug.ui.ATTR_CAPTURE_IN_FILE" value="F:\sourcerer_portable\repositories\genie_search_api_test\console-logs\${current_date}. Step 5.4 - Import Projects.log"/>

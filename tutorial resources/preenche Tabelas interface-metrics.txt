@@ -1,0 +1,19 @@
+select 'interface_metrics' tabela, count(*) total from interface_metrics union all
+select 'interface_metrics_filter' tabela, count(*) total from interface_metrics_filter union all
+select 'interface_metrics_inner' tabela, count(*) total from interface_metrics_inner union all
+select 'interface_metrics_pairs' tabela, count(*) total from interface_metrics_pairs union all
+select 'interface_metrics_pairs_clone_10' tabela, count(*) total from interface_metrics_pairs_clone_10 union all
+select 'interface_metrics_pairs_inner' tabela, count(*) total from interface_metrics_pairs_inner union all
+select 'interface_metrics_params' tabela, count(*) total from interface_metrics_params union all
+select 'interface_metrics_top' tabela, count(*) total from interface_metrics_top union all
+select 'interface_metrics_types' tabela, count(*) total from interface_metrics_types union all
+select 'v_interface_metrics_dif' tabela, count(*) total from v_interface_metrics_dif union all
+select 'v_interface_metrics_pairs' tabela, count(*) total from v_interface_metrics_pairs union all
+select 'v_profile_params' tabela, count(*) total from v_profile_params union all
+select 'v_profile_project' tabela, count(*) total from v_profile_project union all
+select 'v_profile_return' tabela, count(*) total from v_profile_return union all
+
+select 'interface_metrics_test' tabela, count(*) total from interface_metrics_test union all
+select 'interface_metrics_params_test' tabela, count(*) total from interface_metrics_params_test union all
+select 'interface_metrics_pairs_test' tabela, count(*) total from interface_metrics_pairs_test union all
+select 'v_interface_metrics_pairs_test' tabela, count(*) total from v_interface_metrics_pairs_test;

@@ -1,0 +1,10 @@
+select 'comments' tabela, count(*) total from comments union all
+select 'entities' tabela, count(*) total from entities union all
+select 'entity_metrics' tabela, count(*) total from entity_metrics union all
+select 'file_metrics' tabela, count(*) total from file_metrics union all
+select 'files' tabela, count(*) total from files union all
+select 'imports' tabela, count(*) total from imports union all
+select 'problems' tabela, count(*) total from problems union all
+select 'project_metrics' tabela, count(*) total from project_metrics union all
+select 'projects' tabela, count(*) total from projects union all
+select 'relations' tabela, count(*) total from relations;

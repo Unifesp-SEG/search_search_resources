@@ -1,0 +1,6 @@
+
+//clear-index
+//args = new String[]{"--clear-index","--solr-url", "http://localhost:8080/solr"};
+
+//build-codegenie-index
+args = new String[]{"--build-codegenie-index","--solr-url", "http://localhost:8080/solr","--database-url", "jdbc:mysql://localhost:3306/[novo_repo]", "--database-user", "root", "--database-password", "123"};
